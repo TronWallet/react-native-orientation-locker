@@ -8,7 +8,7 @@
     "types": "index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-orientation-locker.git"
+        "url": "git+https://github.com/TronWallet/react-native-orientation-locker.git"
     },
     "keywords": [
         "orientation",
